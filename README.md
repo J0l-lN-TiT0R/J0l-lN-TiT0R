@@ -1,4 +1,4 @@
-### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/15d39554-24cf-4370-9c18-f3bfd93f5390.svg)](https://wakatime.com/@15d39554-24cf-4370-9c18-f3bfd93f5390)
 
 <!--
 **J0l-lN-TiT0R/J0l-lN-TiT0R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
